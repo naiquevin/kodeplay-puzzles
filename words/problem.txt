@@ -1,0 +1,13 @@
+Problem
+=======
+
+1) Find all the words in a dictionary that contain exactly five vowels
+(a, e, i, o and u) in ascending order.
+
+2) Find all the words in a dictionary of length at least six that
+contain letters in strictly ascending alphabetical order.
+
+These games are easy to play using regular expressions, so you should
+solve them without regular expressions, using only simple string
+manipulations. If your system doesn't provide a dictionary, you can
+find one at http://icon.shef.ac.uk/Moby/mwords.html.
